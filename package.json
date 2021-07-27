@@ -1,0 +1,28 @@
+{
+  "name": "javascript-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasaraujonrt/javascript-helper.git"
+  },
+  "author": "Lucas Araujo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasaraujonrt/javascript-helper/issues"
+  },
+  "homepage": "https://github.com/lucasaraujonrt/javascript-helper#readme",
+  "dependencies": {
+    "@types/node": "^16.4.3",
+    "compress.js": "^1.1.2",
+    "typescript": "^4.3.5",
+    "vanilla-masker": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.64.12"
+  }
+}
