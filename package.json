@@ -1,19 +1,19 @@
 {
   "name": "nrt-javascript-helper",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A simple helpers for javascript developer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasaraujonrt/javascript-helper.git"
+    "url": "git+https://github.com/lucasaraujonrt/nrt-javascript-helper.git"
   },
-  "author": "Lucas Araujo",
+  "author": "lucasaraujonrt",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lucasaraujonrt/javascript-helper/issues"
+    "url": "https://github.com/lucasaraujonrt/nrt-javascript-helper/issues"
   },
   "homepage": "https://github.com/lucasaraujonrt/javascript-helper#readme",
   "dependencies": {
@@ -21,8 +21,5 @@
     "compress.js": "^1.1.2",
     "typescript": "^4.3.5",
     "vanilla-masker": "^1.2.0"
-  },
-  "devDependencies": {
-    "@types/react-native": "^0.64.12"
   }
 }
